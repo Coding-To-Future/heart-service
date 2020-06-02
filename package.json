@@ -1,0 +1,18 @@
+{
+  "name": "base-service",
+  "version": "1.0.0",
+  "description": "Microservices Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "yarn run clear && tsc && yarn run copy-files",
+    "clear": "rimraf dist/",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy-files": "copyfiles -u 1 src/config/key/* dist"
+  },
+  "author": "Hoai Nam Nguyen - ironhight",
+  "license": "ISC",
+  "dependencies": {
+    "copyfiles": "^2.3.0",
+    "rimraf": "^3.0.2"
+  }
+}

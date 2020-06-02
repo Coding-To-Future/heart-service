@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["es5", "es6", "es2018"],
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "dist",
+    "declarationDir": "dist",
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.key"],
+  "exclude": ["node_modules"],
+  "lib": ["es2017", "dom", "es2015"]
+}
