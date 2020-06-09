@@ -159,7 +159,7 @@ Project Link: [https://github.com/Coding-To-Future/heart-service](https://github
 [stars-url]: https://github.com/Coding-To-Future/heart-service/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Coding-To-Future/heart-service?style=flat-square
 [issues-url]: https://github.com/Coding-To-Future/heart-service/issues
-[license-shield]: https://img.shields.io/github/license/Coding-To-Future/heart-service?style=flat-square
+[license-shield]: https://img.shields.io/github/license/Coding-To-Future/heart-service?style=flat
 [license-url]: https://github.com/Coding-To-Future/heart-service/blob/master/LICENSE
 
 <!-- [product-screenshot]: images/screenshot.png -->
