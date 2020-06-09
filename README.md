@@ -128,7 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Hoai Nam Nguyen - [ironhight](https://www.instagram.com/_ironhight_/)
+Hoai Nam Nguyen - [ironhight](mrnguyenhoainam2468@gmail.com)
 
 Project Link: [https://github.com/Coding-To-Future/heart-service](https://github.com/Coding-To-Future/heart-service)
 
@@ -136,6 +136,7 @@ Project Link: [https://github.com/Coding-To-Future/heart-service](https://github
 
 ## Acknowledgements
 
+- [NPM package](https://www.npmjs.com/package/@coding-to-future/heart-service)
 <!-- - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
