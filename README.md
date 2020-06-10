@@ -128,7 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Hoai Nam Nguyen - [ironhight](mrnguyenhoainam2468@gmail.com)
+Hoai Nam Nguyen - [ironhight](https://github.com/ironhight)
 
 Project Link: [https://github.com/Coding-To-Future/heart-service](https://github.com/Coding-To-Future/heart-service)
 
