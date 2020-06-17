@@ -19,7 +19,7 @@
     <a href="https://github.com/Coding-To-Future/heart-service"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Coding-To-Future/heart-service">View Demo</a>
+    <a href="https://www.npmjs.com/package/@coding-to-future/heart-service">View package</a>
     ·
     <a href="https://github.com/Coding-To-Future/heart-service/issues">Report Bug</a>
     ·

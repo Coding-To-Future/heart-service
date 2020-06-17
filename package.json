@@ -1,6 +1,6 @@
 {
   "name": "@coding-to-future/heart-service",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Microservices Project",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/Coding-To-Future/heart-service/issues"
   },
-  "homepage": "https://github.com/Coding-To-Future/heart-service#readme"
+  "homepage": "https://github.com/Coding-To-Future/heart-service#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
