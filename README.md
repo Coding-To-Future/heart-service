@@ -14,7 +14,7 @@
   <h3 align="center">Hearth Service</h3>
 
   <p align="center">
-    An awesome package for microservice core
+    An awesome package for microservice
     <br />
     <a href="https://github.com/Coding-To-Future/heart-service"><strong>Explore the docs »</strong></a>
     <br />
